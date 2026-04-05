@@ -471,7 +471,7 @@ int main() {
     //Paso 8
     Sigmoid sigmoid;
     Tensor resultado=Tensor10.apply(sigmoid);
-
+    resultado.print();
 
 
 
