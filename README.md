@@ -1,4 +1,7 @@
-Instrucciones de compilacion y ejecucion de codigo:
+## Instrucciones de compilacion y ejecucion de codigo
+# Integrantes:
+- Dayron Saiyuk Cueva Loayza
+- Axel Robert Portal Ruiz
 # Tarea 1: 
 "Desarrollo de una librería de Tensores en C++"
 # Descripción:
