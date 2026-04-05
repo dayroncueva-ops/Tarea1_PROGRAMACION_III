@@ -56,7 +56,7 @@ Finalmente, aplicamos la función Sigmoid
     Tensor resultado=Tensor10.apply(sigmoid);
 # Resultado esperado de salida:
 Tensor de 1000x10  
-'''  
+```  
 1 1 1 1 1 1 1 1 1 1  
 1 1 1 1 1 1 1 1 1 1  
 1 1 1 1 1 1 1 1 1 1  
@@ -1057,4 +1057,4 @@ Tensor de 1000x10
 1 1 1 1 1 1 1 1 1 1
 1 1 1 1 1 1 1 1 1 1
 1 1 1 1 1 1 1 1 1 1
-'''
+```
