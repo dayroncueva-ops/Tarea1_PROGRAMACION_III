@@ -5,6 +5,10 @@
 #include <cstdlib>
 #include <ctime>
 
+// Integrantes
+// Dayron Saiyuk Cueva Loayza
+// Axel Robert Portal Ruiz
+
 using namespace std;
 class Tensor;
 //5.1
@@ -472,13 +476,6 @@ int main() {
     Sigmoid sigmoid;
     Tensor resultado=Tensor10.apply(sigmoid);
     resultado.print();
-
-
-
-
-
-
-
 
     return 0;
 }
