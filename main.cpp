@@ -47,7 +47,7 @@ public:
         }
     }
 
-    // Destructor (importante desde ya)
+    // Destructor
     ~Tensor() {
         delete[] pMatriz;
     }
